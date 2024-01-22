@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681475902269",
+    "project_id": "java-f-aa7ff",
+    "storage_bucket": "java-f-aa7ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681475902269:android:93ddfe5b00491d42605354",
+        "android_client_info": {
+          "package_name": "com.example.javaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVAbw47seQdyMfd-OKNqh6SRD4JdBEy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
